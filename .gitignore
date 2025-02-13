@@ -11,3 +11,5 @@ venv/
 tmp/
 iopaint/web_app/
 Pipfile.lock
+*.log
+*.out
